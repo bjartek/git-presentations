@@ -22,6 +22,10 @@ The first big talk I gave on Git in early 2008.  There are over 500 slides here,
 
 This is the talk I gave at Scotland on Rails in 2009.  It has a lot of the Basic Git Talk, plus a number of advanced commands (revision selection, bisect, rebasing, etc).  It is a large deck, over 500 slides - it will take at least 2 hours to get through.  I did 80% of it in 45 minutes, but I was in overdrive., One could easily split it into two shorter presentations.
 
+*javaBin Sor JUG meeting April 2011*
+This is my(bjartek) mashup of Scott's slides. Mostly taked from the basic talk and the railsconf08 talk. 
+
+
 Me
 =================
 
