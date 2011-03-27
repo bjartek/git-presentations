@@ -1,9 +1,14 @@
 interactive rebase with squash
-interactive add/ git add -p
-partial add. git add -pt
+ git rebase -i HEAD~3
+
+Partial add
+  git add -p
+
 stash
 cherry-pick
 bisect
+ går igjennom alle commits fra du starter og du kan markere som god eller dårlig. kan automatiseres
+
 notes > 1.6.6
 conflict
 git-svn
