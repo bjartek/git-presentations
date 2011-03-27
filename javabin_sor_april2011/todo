@@ -1,11 +1,18 @@
 interactive rebase with squash
-interactive add
+interactive add/ git add -p
+partial add. git add -pt
+stash
+cherry-pick
+bisect
+notes > 1.6.6
+conflict
 git-svn
 
 CLI Tools:
   hub
   gx
   git-sh
+  git flow
   git-prompt
 
 tig
